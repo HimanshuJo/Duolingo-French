@@ -1,0 +1,30 @@
+un -> 1
+
+le chat -> cat
+un garcon et un chat -> a boy and a cat
+
+le garcon -> boy
+un garcon -> a boy
+un garcon et un chat -> a boy and a cat
+
+l'homme -> man
+
+un homme et un chat -> a man and a cat
+un chat et un homme -> a cat and a man
+
+Merci! -> Danke
+
+Salut, Sophie! -> Hallo Sophie
+
+Je m'appelle Duo -> Ich heiße Duo
+je -> ich
+
+Qui, merci -> Ja Danke
+
+Elle s'appelle Sophie -> Sie heißt Sophie
+Elle est sympa -> Sie ist nett
+
+ll s'appelle Remy -> Er heißt Remy
+ll est sympa -> Er ist nett
+
+Qui elle s'appelle Sophie -> Ja, sie heißt Sophie
