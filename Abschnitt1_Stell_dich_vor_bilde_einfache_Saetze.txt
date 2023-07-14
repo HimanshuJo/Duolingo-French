@@ -17,6 +17,7 @@ Je m'appelle Remy -> Ich heiße Remy
 
 -------
 
+Salut -> Hallo
 Salut, Laurie -> Hallo Laurie
 Salut Remy! -> Hallo Remy
 
@@ -30,24 +31,17 @@ il -> Er
 Il s'appelle Duo -> Er heißt Duo
 Il s'appelle Remy -> Er heißt Remy
 
+est -> ist
 Elle s'appelle Laurie -> Sie heißt Laurie
 Elle est sympa -> Sie ist nett
 
 Je m'appelle Remy -> Ich heiße Remy
 
-Oui -> ja
-
 Je -> ich
-
-Salut -> Hallo
 
 merci -> Danke
 
-il -> er
-
 Chats -> Katzen
-
-est -> ist
 
 grandes -> große
 
@@ -68,30 +62,28 @@ il -> er
 il s'appelle Duo -> Er heißt Duo
 il s'appelle Louis -> Er heißt Louis
 
-salut -> hallo
+salut -> Hallo
 
 Oui Sophie est sympa -> Ja, Sophie ist nett
 Oui elle s'appelle Sophie -> Ja, sie heißt Sophie
 
 Elle est sympa -> Sie ist nett
-
 Sophie est sympa -> Sophie ist nett
 
 -------
 
 une femme -> eine Frau
 
-un garcon -> ein Junge
+un garçon -> ein Junge
 
 un homme -> ein Mann
 
 une fille -> ein Mädchen
-
 Sophie est une fille -> Sophie ist ein Mädchen
 
 Je suis un homme -> ich bin ein Mann
 Je suis une femme -> ich bin eine Frau
-Je suis un garcon -> ich bin ein Junge
+Je suis un garçon -> ich bin ein Junge
 Je suis une fille -> ich bin ein Mädchen
 
 Rosen -> roses
@@ -109,30 +101,26 @@ suis -> bin
 -------
 
 rouge -> rot
-
 Il est rouge -> Er ist rot
 
 la pomme -> der Apfel
 
-L'homme -> Der Mann
-
 l' -> der
+L'homme -> Der Mann
 
 La femme -> Die Frau
 La pomme -> Der Apfel
 
 Oui, la pomme est rouge -> Ja, der Apfel ist rot
 
+je -> ich
 Je mange -> Ich esse
 Je mange une pomme -> Ich esse einen Apfel
 
-Le garcon -> Der Junge
+Le garçon -> Der Junge
 
 Un enfant -> Ein Kind
-
 Rémy est un enfant -> Rémy ist ein Kind
-
-je -> ich
 
 homme -> Mann
 
@@ -143,3 +131,37 @@ le -> der
 il -> er
 
 femme -> Frau
+
+-------
+
+noir -> schwarz
+
+chat -> Katze
+le chat -> Die Katze
+Un chat noir -> Eine schwarze Katze
+
+ll est calme -> Er ist ruhig
+
+L'enfant est calme -> Das kind ist ruhig
+
+Il a une pomme -> Er hat einen Apfel
+Il a un enfant -> Er hat ein Kind
+
+Salut, et merci! -> Tschüss und danke
+
+et -> und
+
+Un garçon et une fille -> Ein Junge und ein Mädchen
+
+Tu -> Du
+Tu es un enfant -> Du bist ein Kind
+Tu es sympa! -> Du bist nett
+Tu es une fille -> Du bist ein Mädchen
+
+une -> eine
+
+pomme -> Apfel
+
+le -> der
+
+la -> die
