@@ -191,3 +191,20 @@ La femme -> Die Frau
 Rémy est un enfant -> Rémy ist ein Kind
 
 Le garçon s'appelle Rémy -> Der Junge heißt Rémy
+
+-------
+
+Salut, Duo! -> Hallo Duo
+Salut, Sophie! -> Hallo Sophie
+
+Je m'appelle Sophie -> Ich heiße Sophie
+Je m'appelle Rémy -> Ich heiße Rémy
+Je m'appelle Duo -> Ich heiße Duo
+Je m'appelle Louis -> Ich heiße Louis
+
+Merci Sophie -> Danke, Sophie
+Merci Duo -> Danke, Duo!
+Merci, Louis -> Danke Louis
+
+Salut Louis -> Hallo Louis
+Salut Rémy -> Hallo Rémy
