@@ -208,3 +208,32 @@ Merci, Louis -> Danke Louis
 
 Salut Louis -> Hallo Louis
 Salut Rémy -> Hallo Rémy
+
+-------
+
+je -> Ich
+Je m'appelle Laurie Morel -> Ich heiße Laurie Morel
+
+sympa/type -> nett
+
+salut -> Hallo
+
+il -> er
+Il s'appelle Rémy -> Er heißt Rémy
+
+Salut Rémy! -> Hallo Rémy!
+
+merci -> danke
+
+oui -> ja
+Oui, Sophie est sympa -> Ja, Sophie ist nett
+
+est -> ist
+
+Salut, Laurie -> Hallo, Laurie
+
+Elle s'appelle Sophie -> Sie heißt Sophie
+Elle est sympa -> Sie ist nett
+Elle s'appelle Laurie -> Sie heißt Laurie
+
+Sophie est sympa -> Sophie ist nett
