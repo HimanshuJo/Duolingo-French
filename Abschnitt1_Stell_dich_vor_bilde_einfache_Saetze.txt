@@ -237,3 +237,22 @@ Elle est sympa -> Sie ist nett
 Elle s'appelle Laurie -> Sie heißt Laurie
 
 Sophie est sympa -> Sophie ist nett
+
+-------
+
+Je m'appelle Rémy -> Ich heiße Rémy
+Je m'appelle Louis -> Ich heiße Louis
+
+Elle s'appelle Laurie -> Sie heißt Laurie
+Elle est sympa -> Sie ist nett
+
+Duo est sympa -> Duo ist nett
+
+Oui elle s'appelle Sophie -> Ja, sie heißt Sophie
+Oui Sophie est sympa -> Ja, Sophie ist nett
+
+Il s'appelle Louis -> Er heißt Louis
+
+Je m'appelle Duo -> Ich heißt Duo
+
+Oui elle s'appelle Sophie -> Ja, sie heißt Sophie
