@@ -3,7 +3,7 @@ Salut! -> Hallo
 
 Merci, Sophie! -> Danke Sophie
 Merci, Duo! -> Danke Duo
-Merci, Louis -> Danke Louis
+Merci, Louis! -> Danke Louis
 
 Salut, Duo! -> Hallo Duo
 Salut, Louis! -> Hallo Louis
@@ -18,8 +18,8 @@ Je m'appelle Rémy -> Ich heiße Rémy
 -------
 
 Salut -> Hallo
-Salut, Laurie -> Hallo Laurie
-Salut Rémy! -> Hallo Rémy
+Salut, Laurie! -> Hallo Laurie
+Salut, Rémy! -> Hallo Rémy
 
 Sympa -> nett
 
@@ -35,9 +35,8 @@ est -> ist
 Elle s'appelle Laurie -> Sie heißt Laurie
 Elle est sympa -> Sie ist nett
 
-Je m'appelle Rémy -> Ich heiße Rémy
-
 Je -> ich
+Je m'appelle Rémy -> Ich heiße Rémy
 
 merci -> Danke
 
@@ -53,8 +52,8 @@ petit -> klein
 
 merci -> danke
 
-Je m'appelle Duo -> Ich heiße Duo
 je -> Ich
+Je m'appelle Duo -> Ich heiße Duo
 
 Elle s'appelle Laurie -> Sie ist Laurie
 
@@ -72,6 +71,7 @@ Sophie est sympa -> Sophie ist nett
 
 -------
 
+femme -> Frau
 une femme -> eine Frau
 
 un garçon -> ein Junge
@@ -87,8 +87,6 @@ Je suis un garçon -> ich bin ein Junge
 Je suis une fille -> ich bin ein Mädchen
 
 Rosen -> roses
-
-femme -> Frau
 
 crepes -> Crepes
 
@@ -240,7 +238,7 @@ Sophie est sympa -> Sophie ist nett
 
 -------
 
-Je m'appelle Rémy -> Ich heiße Rémy
+Je m'appelle émy -> Ich heiße  -> Ich heiße Rémy
 Je m'appelle Louis -> Ich heiße Louis
 
 Elle s'appelle Laurie -> Sie heißt Laurie
@@ -256,3 +254,44 @@ Il s'appelle Louis -> Er heißt Louis
 Je m'appelle Duo -> Ich heißt Duo
 
 Oui elle s'appelle Sophie -> Ja, sie heißt Sophie
+
+-------
+
+Oui, merci! -> Ja danke!
+
+La pomme est rouge -> Der Apfel ist rot
+
+Il a une pomme -> Er hat einen Apfel
+
+L'enfant -> Das Kind
+
+Je suis une femme calme -> Ich bin eine ruhige Frau
+
+enfant -> Kind
+
+grand -> groß
+
+j' -> Ich
+Je m'appelle Rémy -> Ich heiße Rémy
+Je suis une fille -> Ich bin ein Mädchen
+Je mange une pomme -> Ich esse einen Apfel
+
+fort -> stark
+
+notre -> unser
+
+Le garçon et la fille -> Der Junge und das Mädchen
+
+une femme -> Eine Frau
+
+est -> ist
+
+la -> die
+
+a -> hat
+
+poisson -> Fisch
+
+Elle s'appelle Laurie -> Sie heißt Laurie
+
+Salut, Duo! -> Hallo, Duo!
