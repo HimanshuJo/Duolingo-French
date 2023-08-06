@@ -328,27 +328,3 @@ ll s'appelle Remy -> Er heißt Remy
 ll est sympa -> Er ist nett
 
 Qui elle s'appelle Sophie -> Ja, sie heißt Sophie
-
--------
-
-Bonjour! -> Guten Morgen
-Bonjour monsieur -> Guten Tag, mein Herr!
-Bonjour Madame Morel -> Guten Tag Frau Morel
-Bonjour Madame Morel! -> Guten Tag Frau Morel!
-Bonjour monsieur! -> Guten Tag der Herr
-Bonjour, Monsieur Dubois! -> Guten Tag Herr Dubois!
-
-Il est suisse -> Er ist Schweizer
-
-Une fille suisse -> Ein Schweizer Mädchen
-
-Madame Morel est une femme -> Frau Morel ist eine Frau
-Madame Morel est suisse -> Frau Morel ist Schweizerin
-Madame Dubois est suisse -> Frau Dubois ist Schweizerin
-
-Je m'appelle Laurie Morel -> Ich heiße Laurie Morel
-Je m'appelle Rémy Dubois -> Ich heiße Rémy Dubois
-
-Merci Madame Dubois -> Danke Frau Dubois!
-
-Monsieur Morel est suisse -> Herr Morel ist Schweizer
