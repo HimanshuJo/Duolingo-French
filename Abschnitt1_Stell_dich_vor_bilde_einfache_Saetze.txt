@@ -24,7 +24,7 @@ Salut, Rémy! -> Hallo Rémy
 Sympa -> nett
 
 Oui -> Ja
-Oui Sophie est Sympa -> Ja, Sophie ist nett
+Oui, Sophie est Sympa -> Ja, Sophie ist nett
 Oui, elle s'appelle Sophie -> Ja sie heißt Sophie
 
 il -> Er

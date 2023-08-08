@@ -55,3 +55,29 @@ je -> ich
 fille -> Mädchen
 
 l' -> der
+
+-------
+
+Lektion 3
+
+Au revoir et bonne nuit! -> Auf Wiedersehen und gute Nacht
+
+Elle est allemande -> Sie ist Deutsche
+
+Merci et bonne nuit! -> Danke und gute Nacht
+
+Elle est française -> Elle ist Französin
+
+Un garçon français -> Ein französischer Junge
+
+Il est allemand -> Er ist Deutscher
+Il est français -> Er ist Franzose
+
+Bonjour, je m'appelle Duo! -> Guten Tag ich heiße Duo
+
+La nuit est calme -> Die Nacht ist ruhig
+
+Tu es allemand -> Du bist Deutscher
+Un homme allemand -> Ein deutscher Mann
+
+Monsieur Dubios est un homme -> Herr Dubios ist ein Mann
