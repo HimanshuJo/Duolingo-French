@@ -238,7 +238,7 @@ Sophie est sympa -> Sophie ist nett
 
 -------
 
-Je m'appelle émy -> Ich heiße  -> Ich heiße Rémy
+Je m'appelle Rémy -> Ich heiße Rémy
 Je m'appelle Louis -> Ich heiße Louis
 
 Elle s'appelle Laurie -> Sie heißt Laurie

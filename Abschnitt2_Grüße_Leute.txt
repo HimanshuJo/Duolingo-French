@@ -81,3 +81,32 @@ Tu es allemand -> Du bist Deutscher
 Un homme allemand -> Ein deutscher Mann
 
 Monsieur Dubios est un homme -> Herr Dubios ist ein Mann
+
+-------
+
+Bilde einfache Sätze
+
+Lektion 1 von 4
+
+Salut/Bonjour -> Hallo/Guten Morgen
+
+Oui -> Ja
+Oui, je suis une femme -> Ja, ich bin eine Frau
+
+Il -> Er
+
+homme(um) -> Mann
+Je -> Ich
+Je suis un homme -> Ich bin ein Mann
+Je suis une femme -> Ich bin eine Frau
+Je un garçon -> Ich bin ein Junge
+
+Garçon -> Junge
+Un garçon -> Ein Junge
+Un garçon, une fille -> Ein Junge ein Mädchen
+
+Une femme -> Eine Frau
+
+Sophie est(ech) une fille(fi) -> Sophie ist ein Mädchen
+
+Louis est un homme -> Louis ist ein Mann
