@@ -1,11 +1,28 @@
 Lektion 1
 
-Bonjour! -> Guten Morgen
-Bonjour monsieur -> Guten Tag, mein Herr!
-Bonjour Madame Morel -> Guten Tag Frau Morel
-Bonjour Madame Morel! -> Guten Tag Frau Morel!
-Bonjour monsieur! -> Guten Tag der Herr
-Bonjour, Monsieur Dubois! -> Guten Tag Herr Dubois!
+Bonjour!
+Guten Morgen
+Good Morning
+
+Bonjour monsieur
+Guten Tag, mein Herr!
+Hello, sir
+
+Bonjour Madame Morel
+Guten Tag Frau Morel
+Hello Mrs. Morel
+
+Bonjour Madame Morel!
+Guten Tag Frau Morel!
+Hello Mrs. Morel!
+
+Bonjour monsieur!
+Guten Tag der Herr!
+Hello sir!
+
+Bonjour, Monsieur Dubois!
+Guten Tag Herr Dubois!
+Hello, Mr. Dubois!
 
 Il est suisse -> Er ist Schweizer
 

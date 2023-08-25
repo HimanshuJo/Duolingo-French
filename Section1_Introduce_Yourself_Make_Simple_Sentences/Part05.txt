@@ -1,0 +1,75 @@
+rouge
+rot
+Red
+
+Il est rouge
+Er ist rot
+He is red
+
+la pomme
+der Apfel
+The Apple
+
+l'
+der
+He
+
+L'homme
+Der Mann
+The man
+
+La femme
+Die Frau
+The woman
+
+La pomme
+Der Apfel
+The apple
+
+Oui, la pomme est rouge
+Ja, der Apfel ist rot
+Yes, the apple is red
+
+je
+ich
+I
+
+Je mange
+Ich esse
+I eat
+
+Je mange une pomme
+Ich esse einen Apfel
+I eat an apple
+
+Le garçon
+Der Junge
+The boy
+
+Un enfant
+Ein Kind
+A child
+
+Rémy est un enfant
+Rémy ist ein Kind
+Rémy is a child
+
+homme
+Mann
+Man
+
+fille
+Mädchen
+Girl
+
+le
+der
+The
+
+il
+er
+He
+
+femme
+Frau
+Woman

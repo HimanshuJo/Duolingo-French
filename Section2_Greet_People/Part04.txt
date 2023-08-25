@@ -1,0 +1,59 @@
+Salut/Bonjour
+Hallo/Guten Morgen
+Hello/Good morning
+
+Oui
+Ja
+Yes
+
+Oui, je suis une femme
+Ja, ich bin eine Frau
+Yes, i am a woman
+
+Il
+Er
+He
+
+homme(um)
+Mann
+Man
+
+Je
+Ich
+I
+
+Je suis un homme
+Ich bin ein Mann
+I am a man
+
+Je suis une femme
+Ich bin eine Frau
+I am a woman
+
+Je un garçon
+Ich bin ein Junge
+I am a boy
+
+Garçon
+Junge
+Boy
+
+Un garçon
+Ein Junge
+A boy
+
+Un garçon, une fille
+Ein Junge ein Mädchen
+A boy a girl
+
+Une femme
+Eine Frau
+A woman
+
+Sophie est(ech) une fille(fi)
+Sophie ist ein Mädchen
+Sophie is a girl
+
+Louis est un homme
+Louis ist ein Mann
+Louis is a man

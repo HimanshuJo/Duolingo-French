@@ -1,0 +1,59 @@
+Bonjour!
+Guten Morgen
+Good Morning
+
+Bonjour monsieur
+Guten Tag, mein Herr!
+Hello, sir
+
+Bonjour Madame Morel
+Guten Tag Frau Morel
+Hello Mrs. Morel
+
+Bonjour Madame Morel!
+Guten Tag Frau Morel!
+Hello Mrs. Morel!
+
+Bonjour monsieur!
+Guten Tag der Herr!
+Hello sir!
+
+Bonjour, Monsieur Dubois!
+Guten Tag Herr Dubois!
+Hello, Mr. Dubois!
+
+Il est suisse
+Er ist Schweizer
+He is Swiss
+
+Une fille suisse
+Ein Schweizer Mädchen
+A swiss girl
+
+Madame Morel est une femme
+Frau Morel ist eine Frau
+Mrs. Morel is a woman
+
+Madame Morel est suisse
+Frau Morel ist Schweizerin
+Mrs. Morel is Swiss
+
+Madame Dubois est suisse
+Frau Dubois ist Schweizerin
+Mrs. Dubios is Swiss
+
+Je m'appelle Laurie Morel
+Ich heiße Laurie Morel
+My name is Laurie Morel
+
+Je m'appelle Rémy Dubois
+Ich heiße Rémy Dubois
+My name is Rémy Dubois
+
+Merci Madame Dubois!
+Danke Frau Dubois!
+Thank you Mrs. Dubois!
+
+Monsieur Morel est suisse
+Herr Morel ist Schweizer
+Mr. Morel is Swiss

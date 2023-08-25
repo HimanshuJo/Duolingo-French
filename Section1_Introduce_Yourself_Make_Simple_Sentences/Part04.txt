@@ -1,0 +1,59 @@
+femme
+Frau
+Woman
+
+une femme
+eine Frau
+A woman
+
+un garçon
+ein Junge
+A boy
+
+un homme
+ein Mann
+A man
+
+une fille
+ein Mädchen
+A girl
+
+Sophie est une fille
+Sophie ist ein Mädchen
+Sophie is a girl
+
+Je suis un homme
+ich bin ein Mann
+I am a man
+
+Je suis une femme
+ich bin eine Frau
+I am a woman
+
+Je suis un garçon
+ich bin ein Junge
+I am a boy
+
+Je suis une fille
+ich bin ein Mädchen
+I am a girl
+
+Rosen
+roses
+Roses
+
+crepes
+Crepes
+Crepes
+
+grandes
+große
+Large
+
+cet
+dieses
+This
+
+suis
+bin
+Am

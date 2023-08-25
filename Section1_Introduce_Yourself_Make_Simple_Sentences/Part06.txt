@@ -1,0 +1,75 @@
+noir
+schwarz
+Black
+
+chat
+Katze
+Cat
+
+le chat
+Die Katze
+The cat
+
+Un chat noir
+Eine schwarze Katze
+A black cat
+
+ll est calme
+Er ist ruhig
+He is calm
+
+L'enfant est calme
+Das kind ist ruhig
+The child is calm
+
+Il a une pomme
+Er hat einen Apfel
+He has an apple
+
+Il a un enfant
+Er hat ein Kind
+He has a child
+
+Salut, et merci!
+Tschüss und danke
+Bye and thank you
+
+et
+und
+And
+
+Un garçon et une fille
+Ein Junge und ein Mädchen
+A boy and a girl
+
+Tu
+Du
+You
+
+Tu es un enfant
+Du bist ein Kind
+You are a child
+
+Tu es sympa!
+Du bist nett
+You are nice
+
+Tu es une fille
+Du bist ein Mädchen
+You are a girl
+
+une
+eine
+A
+
+pomme
+Apfel
+Apple
+
+le
+der
+The
+
+la
+die
+There
