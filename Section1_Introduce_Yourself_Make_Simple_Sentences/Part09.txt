@@ -1,0 +1,63 @@
+je
+Ich
+I
+
+Je m'appelle Laurie Morel
+Ich heiße Laurie Morel
+My name is laurie Morel
+
+sympa/type
+nett
+Nice
+
+salut
+Hallo
+Hello
+
+il
+er
+He
+
+Il s'appelle Rémy
+Er heißt Rémy
+His name is Rémy
+
+Salut Rémy!
+Hallo Rémy!
+Hello Rémy!
+
+merci
+danke
+Thank you
+
+oui
+ja
+Yes
+
+Oui, Sophie est sympa
+Ja, Sophie ist nett
+Yes, Sophie is nice
+
+est
+ist
+is
+
+Salut, Laurie
+Hallo, Laurie
+Hello, Laurie
+
+Elle s'appelle Sophie
+Sie heißt Sophie
+Her name is Sophie
+
+Elle est sympa
+Sie ist nett
+She is nice
+
+Elle s'appelle Laurie
+Sie heißt Laurie
+Her name is Laurie
+
+Sophie est sympa
+Sophie ist nett
+Sophie is nice
