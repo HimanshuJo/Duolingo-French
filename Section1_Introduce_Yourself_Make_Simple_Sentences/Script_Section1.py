@@ -5,12 +5,24 @@ from docx.shared import Pt, RGBColor
 from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
+from docx.shared import Pt, Inches  # Import Inches
 
-def create_word_document(input_path, output_path):
+def create_word_document(input_path, output_path, image_folder):
     with open(input_path, 'r', encoding='utf-8') as file:
         content = file.read().strip().split('\n\n')
 
     doc = Document()
+    
+    drawing = doc.add_heading()
+    image_path = os.path.join(image_folder, "background.jpg")
+    image = drawing.add_picture(image_path)
+    width = Inches(8.5)
+    height = Inches(11)
+    image.width = width
+    image.height = height
+    paragraph = image.paragraph
+    paragraph.alignment = WD_PARAGRAPH_ALIGNMENT.CENTER
+    paragraph.runs[0].add_break()
     
     # Create a table with 3 columns and apply a table style
     table = doc.add_table(rows=1, cols=3)
@@ -24,12 +36,14 @@ def create_word_document(input_path, output_path):
         col.width = 3000000  # Adjust the width as needed
     for cell in table.rows[0].cells:
         cell.paragraphs[0].alignment = WD_PARAGRAPH_ALIGNMENT.CENTER
+        cell.vertical_alignment = WD_PARAGRAPH_ALIGNMENT.CENTER
+        set_cell_shading(cell, "auto")  # Set cell shading
         run = cell.paragraphs[0].add_run()
         run.bold = True
         run.font.size = Pt(14)  # Adjust the font size as needed
         cell.vertical_alignment = WD_PARAGRAPH_ALIGNMENT.CENTER
         set_cell_shading(cell, "E9E9E9")  # Light gray background color
-    table.cell(0, 0).text = 'Spanish'
+    table.cell(0, 0).text = 'French'
     table.cell(0, 1).text = 'German'
     table.cell(0, 2).text = 'English'
     
@@ -47,6 +61,7 @@ def create_word_document(input_path, output_path):
                     set_cell_shading(row[i], "FFFFFF")
     
     doc.save(output_path)
+    
 
 def set_cell_shading(cell, color_hex):
     shading = cell._tc.get_or_add_tcPr()
@@ -57,7 +72,7 @@ def set_cell_shading(cell, color_hex):
 def main():
     input_folder = "C:\CustomProjs\Duolingo-French\Section1_Introduce_Yourself_Make_Simple_Sentences"
     output_folder = "C:\CustomProjs\Duolingo-French\Section1_Introduce_Yourself_Make_Simple_Sentences"
-
+    image_folder = r"C:\CustomProjs\Duolingo-French\Section1_Introduce_Yourself_Make_Simple_Sentences"  # Update with the correct image folder path
     os.makedirs(output_folder, exist_ok=True)
 
     input_files = glob.glob(os.path.join(input_folder, "Part*.txt"))
@@ -66,7 +81,7 @@ def main():
         filename = os.path.splitext(os.path.basename(input_file))[0]
         output_file = os.path.join(output_folder, f"{filename}.docx")
 
-        create_word_document(input_file, output_file)
+        create_word_document(input_file, output_file, image_folder)
         print(f"Created: {output_file}")
 
 if __name__ == "__main__":

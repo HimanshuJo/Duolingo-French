@@ -29,7 +29,7 @@ def create_word_document(input_path, output_path):
         run.font.size = Pt(14)  # Adjust the font size as needed
         cell.vertical_alignment = WD_PARAGRAPH_ALIGNMENT.CENTER
         set_cell_shading(cell, "E9E9E9")  # Light gray background color
-    table.cell(0, 0).text = 'Spanish'
+    table.cell(0, 0).text = 'French'
     table.cell(0, 1).text = 'German'
     table.cell(0, 2).text = 'English'
     

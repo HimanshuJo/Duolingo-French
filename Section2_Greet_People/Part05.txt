@@ -1,0 +1,58 @@
+enfant
+Kind
+Child
+
+rouge
+rot
+Red
+
+Homme
+Mann
+Man
+
+Pomme
+Apfel
+Apple
+
+Le garçon
+Der Junge
+The boy
+
+Je mange
+Ich esse
+I eat
+
+La pomme
+Der Apfel
+The Apple
+
+Le garçon est sympa
+Der Junge ist nett
+The boy is nice
+
+Rémy est un enfant
+Rémy ist ein Kind
+Rémy is a child
+
+L'enfant
+Das Kind
+The child
+
+La femme
+Die Frau
+
+Je mange une pomme
+Ich esse ein Apfel
+I eat an apple
+
+La pomme est rouge
+Der Apfel ist rot
+The apple is red
+
+L' enfant est sympa
+Das Kind ist nett
+The child is nice
+
+Une pomme rouge
+Ein roter Apfel
+A red apple
